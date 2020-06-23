@@ -23,13 +23,13 @@
 ![시간표](https://user-images.githubusercontent.com/63714306/85372266-8a52d080-b56c-11ea-93a7-3cea0c9c6e69.PNG)
 
 
-**연락처**
+###연락처
 - 이메일 : parkiy7511@gmail.com
 
 
 
 
-**공부하면서 재밌었던 코드**  
+### 공부하면서 재밌었던 코드  
 >가위바위보하는 파이썬 코드  
 
 ```python
@@ -64,6 +64,7 @@ while True:
 
 
 
+[TOC]
 
 
 
