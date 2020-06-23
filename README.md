@@ -23,7 +23,7 @@
 
 **연락처**
 
-[이메일](parkiy7511@gmail.com)
+[이메일](https://cutemoomin.tistory.com/112)
 
 
 
