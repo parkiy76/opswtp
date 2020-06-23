@@ -20,8 +20,9 @@
 
 **시간표**
 ====
+![시간표.PNG](C:\Users\Administrator\Desktop\시간표.PNG)
 
-![시간표.PNG](C:\Users\Administrator\Desktop\[team project]\시간표.PNG)
+
 
 
 **연락처**
