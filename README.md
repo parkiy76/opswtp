@@ -20,7 +20,7 @@
 
 **시간표**
 
-![시간표.PNG](C:\Users\Administrator\Desktop\[team project]\시간표.PNG)
+![시간표](https://user-images.githubusercontent.com/63714306/85372266-8a52d080-b56c-11ea-93a7-3cea0c9c6e69.PNG)
 
 
 **연락처**
